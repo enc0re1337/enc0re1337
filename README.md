@@ -3,6 +3,7 @@
 ### Опыт работы <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-job-human-resource-itim2101-lineal-color-itim2101.png"/>:
 ### ПУ ФСБ Россия по Республике Алтай.
 Занимал должность вожатого служебных собак (или кинолог по простому).<img src="https://img.icons8.com/pastel-glyph/64/000000/dog--v4.png"/>
+
 Декабрь 2017 - Декабрь 2019
 <ul>
  <li>Быстрый карьерный рост
