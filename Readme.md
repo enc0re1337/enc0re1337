@@ -25,12 +25,14 @@
 
 <hr>
 
-### Языки и инструменты <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-tools-creativity-and-design-justicon-lineal-color-justicon.png"/>:
+### Языки <img src="https://img.icons8.com/cotton/64/000000/online-coding.png"/>:
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=CSS3&logoColor=4F4FD9)
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=FFBF40)
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
+
+### Инструменты <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-tools-creativity-and-design-justicon-lineal-color-justicon.png"/>:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue.js&logoColor=329000)
