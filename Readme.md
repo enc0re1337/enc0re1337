@@ -1,7 +1,7 @@
 ![Header](https://github.com/enc0re1337/enc0re1337/blob/main/Assets/Logo.jpg)
 
 ### Опыт работы <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-job-human-resource-itim2101-lineal-color-itim2101.png"/>:
-### ПУ ФСБ Россия по Республике Алтай.
+### ПУ ФСБ Россия по Республике Алтай.(госуха)
 Занимал должность вожатого служебных собак (или кинолог по простому).<img src="https://img.icons8.com/pastel-glyph/64/000000/dog--v4.png"/>
 
 Декабрь 2017 - Декабрь 2019
@@ -14,6 +14,19 @@
 ### IT-Incubator
 Студент
 Июнь 2021-Декабрь 2021
+
+<ul>
+    <li>Принимал участие в разработке CRM системы на React
+    <li>Принимал участие в разработке социальной сети на Vue
+</ul>
+
+### Управление образование АМО(госуха)
+Инженер-программист
+Январь 2020 - н.в.
+<ul>
+    <li>Занимаюсь поддержанием сайта
+    <li>Системное администратирование
+</ul>
 
 
 <hr>
@@ -38,11 +51,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=CSS3&logoColor=4F4FD9)
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=FFBF40)
-##### Общее представление
+##### Изучаю
 ![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Typescript)
 
 ### Инструменты <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-tools-creativity-and-design-justicon-lineal-color-justicon.png"/>:
-##### Общее представление работы
+##### Изучаю
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ##### Основное направление
